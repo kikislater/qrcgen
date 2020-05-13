@@ -14,3 +14,5 @@ optional arguments:
   -h, --help  show this help message and exit
 
 A directory.qrc file will be generated in the current directory
+
+python qrcgen.py icon-folder qrc
